@@ -202,7 +202,7 @@ The SerenityOS GUI is event-driven, and most of the logic is about widgets handl
 
 And that's it for today! I hope this gave you some idea of how GUI programming is done on SerenityOS.
 
-If you would like to know more, I recommend looking at some of the many [applications](https://github.com/SerenityOS/serenity/tree/master/Applications), [games](https://github.com/SerenityOS/serenity/tree/master/Games) and [demos](https://github.com/SerenityOS/serenity/tree/master/Demos). It's also handy to look at the [LibGUI source code itself.](https://github.com/SerenityOS/serenity/tree/master/Libraries/LibGUI)
+If you would like to know more, I recommend looking at some of the many [applications](https://github.com/SerenityOS/serenity/tree/master/Userland/Applications), [games](https://github.com/SerenityOS/serenity/tree/master/Userland/Games) and [demos](https://github.com/SerenityOS/serenity/tree/master/Userland/Demos). It's also handy to look at the [LibGUI source code itself.](https://github.com/SerenityOS/serenity/tree/master/Userland/Libraries/LibGUI)
 
 
 Note that the system and its various libraries are under constant development, so the above may no longer be accurate by the time you read this. Come talk to us in `#serenityos` on the Freenode IRC network if you find bugs or have questions!
